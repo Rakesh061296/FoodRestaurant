@@ -1,0 +1,19 @@
+/* styles.css */
+.slick-slide {
+    margin: 0;
+    padding: 20;
+  }
+  
+  .testimonial-item {
+    box-sizing: border-box;
+  }
+  
+  .slick-list {
+    margin: 0 auto;
+    padding: 0;
+  }
+  
+  .slick-dots {
+    bottom: -30px;
+  }
+  
